@@ -40,13 +40,13 @@ const socials: Social[] = [
     //     bgColor: '#1da1f2',
     //     color: '#ffffff'
     // },
-    // {
-    //     name: 'Github',
-    //     url: '',
-    //     icon: faGithub,
-    //     bgColor: '#000000',
-    //     color: '#ffffff'
-    // },
+    {
+        name: 'Github',
+        url: 'https://github.com/blitzmann',
+        icon: faGithub,
+        bgColor: '#000000',
+        color: '#ffffff'
+    },
     // {
     //     name: 'Twitch',
     //     url: '',
